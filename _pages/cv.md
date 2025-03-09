@@ -6,6 +6,21 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<style>
+  body {
+    text-align: justify
+  }
+
+  .archive ul {
+    word-wrap: break-word;
+    width: 40em;
+  }
+
+  .list__item {
+    word-wrap: break-word;
+    width: 42em;
+  }
+</style>
 
 {% include base_path %}
 
