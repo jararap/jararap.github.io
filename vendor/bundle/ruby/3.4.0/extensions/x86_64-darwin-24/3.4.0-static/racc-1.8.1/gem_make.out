@@ -1,0 +1,19 @@
+current directory: /Users/jiapeng/Documents/jararap.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/jiapeng/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jiapeng/Documents/jararap.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250307-73110-u43f01 sitelibdir\=./.gem.20250307-73110-u43f01 clean
+
+current directory: /Users/jiapeng/Documents/jararap.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250307-73110-u43f01 sitelibdir\=./.gem.20250307-73110-u43f01
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/usr/local/opt/gdbm/lib' not found
+
+current directory: /Users/jiapeng/Documents/jararap.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250307-73110-u43f01 sitelibdir\=./.gem.20250307-73110-u43f01 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250307-73110-u43f01/racc
+
+current directory: /Users/jiapeng/Documents/jararap.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250307-73110-u43f01 sitelibdir\=./.gem.20250307-73110-u43f01 clean
